@@ -1,0 +1,315 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/awesome-weather\n"
+"POT-Creation-Date: 2016-02-15 08:45+0700\n"
+"PO-Revision-Date: 2016-02-15 08:55+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../awesome-weather-settings.php:13
+msgid "Awesome Weather Widget"
+msgstr "Awesome Weather Widget"
+
+#: ../awesome-weather-settings.php:17
+msgid "Weather Widget Cache Cleared"
+msgstr "Weather Widget Cache Cleared"
+
+#: ../awesome-weather-settings.php:28
+msgid "Clear all Awesome Weather Widget Cache"
+msgstr "Xóa tất cả Cache Awesome Weather Widget"
+
+#: ../awesome-weather-settings.php:42
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: ../awesome-weather-settings.php:46
+msgid "API Key Required"
+msgstr "Yêu mã API"
+
+#: ../awesome-weather-settings.php:51
+msgid "Donate"
+msgstr "Quyên góp"
+
+#: ../awesome-weather-settings.php:54
+msgid "Upgrade"
+msgstr "Nâng cấp"
+
+#: ../awesome-weather-settings.php:69
+msgid "OpenWeatherMaps APPID"
+msgstr "OpenWeatherMaps APPID"
+
+#: ../awesome-weather-settings.php:70
+msgid "Error Handling"
+msgstr "Error Handling"
+
+#: ../awesome-weather-settings.php:106
+msgid "Defined in wp-config"
+msgstr "Định nghĩa trong wp-config"
+
+#: ../awesome-weather-settings.php:113 ../widget.php:97
+msgid ""
+"As of October 2015, OpenWeatherMap requires an APP ID key to access their "
+"weather data."
+msgstr ""
+"Từ tháng 10/2015, OpenWeatherMap yêu cầu khóa định danh APP để truy cập "
+"dữ liệu thời tiết của họ."
+
+#: ../awesome-weather-settings.php:115 ../widget.php:99
+msgid "Get your APPID"
+msgstr "Nhận APPID của bạn"
+
+#: ../awesome-weather-settings.php:126
+msgid "Hidden in Source"
+msgstr "Ẩn trong nguồn"
+
+#: ../awesome-weather-settings.php:127
+msgid "Display if Admin"
+msgstr "Hiển thị nếu là quản trị viên"
+
+#: ../awesome-weather-settings.php:128
+msgid "Display for Anyone"
+msgstr "Hiển thị với tất cả"
+
+#: ../awesome-weather-settings.php:131
+msgid "What should the plugin do when there is an error?"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://halgatewood.com/awesome-weather"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A weather widget that actually looks cool"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Hal Gatewood"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.halgatewood.com"
+msgstr ""
+
+#: ../awesome-weather.php:75
+msgid "C"
+msgstr "C"
+
+#: ../awesome-weather.php:75
+msgid "F"
+msgstr "F"
+
+#: ../awesome-weather.php:280
+msgid "N"
+msgstr "B"
+
+#: ../awesome-weather.php:280
+msgid "NNE"
+msgstr "B-ĐB"
+
+#: ../awesome-weather.php:280
+msgid "NE"
+msgstr "ĐB"
+
+#: ../awesome-weather.php:280
+msgid "ENE"
+msgstr "Đ-ĐB"
+
+#: ../awesome-weather.php:280
+msgid "E"
+msgstr "Đ"
+
+#: ../awesome-weather.php:280
+msgid "ESE"
+msgstr "Đ-ĐN"
+
+#: ../awesome-weather.php:280
+msgid "SE"
+msgstr "ĐN"
+
+#: ../awesome-weather.php:280
+msgid "SSE"
+msgstr "N-ĐN"
+
+#: ../awesome-weather.php:280
+msgid "S"
+msgstr "N"
+
+#: ../awesome-weather.php:280
+msgid "SSW"
+msgstr "N-TN"
+
+#: ../awesome-weather.php:280
+msgid "SW"
+msgstr "TN"
+
+#: ../awesome-weather.php:280
+msgid "WSW"
+msgstr "T-TN"
+
+#: ../awesome-weather.php:280
+msgid "W"
+msgstr "T"
+
+#: ../awesome-weather.php:280
+msgid "WNW"
+msgstr "T-TB"
+
+#: ../awesome-weather.php:280
+msgid "NW"
+msgstr "TB"
+
+#: ../awesome-weather.php:280
+msgid "NNW"
+msgstr "B-TB"
+
+#: ../awesome-weather.php:364
+msgid "mph"
+msgstr "mph"
+
+#: ../awesome-weather.php:364
+msgid "m/s"
+msgstr "m/s"
+
+#: ../awesome-weather.php:373
+msgid "humidity:"
+msgstr "độ ẩm:"
+
+#: ../awesome-weather.php:374
+msgid "wind:"
+msgstr "gió:"
+
+#: ../awesome-weather.php:375
+msgid "H"
+msgstr "C"
+
+#: ../awesome-weather.php:375
+msgid "L"
+msgstr "T"
+
+#: ../awesome-weather.php:386
+msgid "Sun"
+msgstr "CN"
+
+#: ../awesome-weather.php:386
+msgid "Mon"
+msgstr "T2"
+
+#: ../awesome-weather.php:386
+msgid "Tue"
+msgstr "T3"
+
+#: ../awesome-weather.php:386
+msgid "Wed"
+msgstr "T4"
+
+#: ../awesome-weather.php:386
+msgid "Thu"
+msgstr "T5"
+
+#: ../awesome-weather.php:386
+msgid "Fri"
+msgstr "T6"
+
+#: ../awesome-weather.php:386
+msgid "Sat"
+msgstr "T7"
+
+#: ../awesome-weather.php:408
+msgid "extended forecast"
+msgstr "dự báo mở rộng"
+
+#: ../awesome-weather.php:422
+msgid "Weather from"
+msgstr ""
+
+#: ../awesome-weather.php:432
+msgid "No weather information available"
+msgstr "Không có thông tin thời tiết thích hợp"
+
+#: ../awesome-weather.php:467
+msgid "No city found in OpenWeatherMap."
+msgstr "Không tìm thấy thành phố nào trong OpenWeatherMap"
+
+#: ../awesome-weather.php:468
+msgid "Only one location found. The ID has been set automatically above."
+msgstr "Chỉ tìm thấy duy nhất một địa danh. ID được đặt tự động như trên."
+
+#: ../awesome-weather.php:469
+msgid "Please confirm your city: &nbsp;"
+msgstr "Vui lòng xác nhận thành phố của bạn: &nbsp;"
+
+#: ../widget.php:101
+msgid "and add it to the new settings page."
+msgstr "và thêm nó vào trang cài đặt mới"
+
+#: ../widget.php:108
+msgid "Search for Your Location:"
+msgstr "Tìm địa danh của bạn:"
+
+#: ../widget.php:109
+msgid "(i.e: London or New York City)"
+msgstr "(ví dụ: London,UK hoặc New York City,NY)"
+
+#: ../widget.php:116
+msgid "OpenWeatherMap City ID:"
+msgstr "ID thành phố OpenWeatherMap:"
+
+#: ../widget.php:117
+msgid "(use the field above to find the ID for your city)"
+msgstr "(dùng trường trên để tìm ID thành phố của bạn)"
+
+#: ../widget.php:130
+msgid "Override Title:"
+msgstr "Đặt lại tiêu đề:"
+
+#: ../widget.php:135
+msgid "Units:"
+msgstr "Đơn vị:"
+
+#: ../widget.php:149
+msgid "Size:"
+msgstr "Kích cỡ:"
+
+#: ../widget.php:158
+msgid "Forecast:"
+msgstr "Dự báo:"
+
+#: ../widget.php:172
+msgid "Background Image:"
+msgstr "Ảnh nền:"
+
+#: ../widget.php:178
+msgid "Use Different Background Images Based on Weather"
+msgstr "Dùng ảnh nền khác nhau dựa trên thời tiết"
+
+#: ../widget.php:182
+msgid "Custom Background Color:"
+msgstr "Màu nền tùy chỉnh:"
+
+#: ../widget.php:183
+msgid "overrides color changing"
+msgstr "đặt lại màu "
+
+#: ../widget.php:188
+msgid "Text Color"
+msgstr "Màu chữ văn bản"
+
+#: ../widget.php:207
+msgid "Hide Current Condition Stats"
+msgstr ""
+
+#: ../widget.php:213
+msgid "Link to OpenWeatherMap"
+msgstr "Dẫn đến OpenWeatherMap"
+
+#: ../widget.php:217
+msgid "Widget Title: (optional)"
+msgstr "Tiêu đề: ( tùy chọn)"

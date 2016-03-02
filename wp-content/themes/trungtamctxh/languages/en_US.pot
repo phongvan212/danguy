@@ -1,0 +1,101 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: trungtamctxh\n"
+"POT-Creation-Date: 2016-03-01 15:43+0700\n"
+"PO-Revision-Date: 2016-01-27 16:25+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: 404.php\n"
+"X-Poedit-SearchPath-1: archive.php\n"
+"X-Poedit-SearchPath-2: content.php\n"
+"X-Poedit-SearchPath-3: content-none.php\n"
+"X-Poedit-SearchPath-4: footer.php\n"
+"X-Poedit-SearchPath-5: functions.php\n"
+"X-Poedit-SearchPath-6: search.php\n"
+"X-Poedit-SearchPath-7: header.php\n"
+
+#: content-none.php:2
+msgid "<div class=\"alert alert-info\">Danh mục này chưa có nội dung.</div>"
+msgstr ""
+
+#: functions.php:77
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:83
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:168 functions.php:293
+msgid "Previous page"
+msgstr ""
+
+#: functions.php:172 functions.php:292
+msgid "Next page"
+msgstr ""
+
+#: functions.php:209
+#, php-format
+msgid "<i>%1$s posted on %2$s - %3$s</i>"
+msgstr ""
+
+#: functions.php:221
+#, php-format
+msgid "<i class=\"chungaythang\">Published on: %1$s - %2$s</i>"
+msgstr ""
+
+#: functions.php:242
+#, php-format
+msgid "<h4 class=\"date-published\">Published on: %1$s</h4>"
+msgstr ""
+
+#: functions.php:268
+msgid "Read more"
+msgstr ""
+
+#: functions.php:290
+msgid "<p>Page:"
+msgstr ""
+
+#: functions.php:309
+#, php-format
+msgid "Tagged in %1$s"
+msgstr ""
+
+#: functions.php:374
+msgid "NEWS - EVENT"
+msgstr ""
+
+#: functions.php:389 functions.php:429
+#, php-format
+msgid "Published on: %1$s"
+msgstr ""
+
+#: functions.php:392
+#, php-format
+msgid "Views: %1$s"
+msgstr ""
+
+#: search.php:17
+#, php-format
+msgid ""
+"<div class=\"alert alert-info\">Tìm thấy <strong>%1$s</strong> kết quả cho "
+"từ khóa <strong>%2$s</strong>.</div>"
+msgstr ""
+
+#: search.php:23
+#, php-format
+msgid ""
+"<div class=\"alert alert-danger\">Không tìm thấy kết quả cho từ khóa <strong>"
+"%1$s</strong>.</div>"
+msgstr ""
