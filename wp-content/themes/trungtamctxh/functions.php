@@ -446,7 +446,7 @@
 		function carousel_by_cat($args,$content){
 			if(!is_null($args['cat_id']))
 			{
-				query_posts('cat='.$args['cat_id']);//'meta_query' => array(array('key' => '_thumbnail_id')
+				query_posts('cat='.$args['cat_id'].'&showposts=5');//'meta_query' => array(array('key' => '_thumbnail_id')
 				if(have_posts())
 				{
 					echo "<div class='cat_carousel'>";
