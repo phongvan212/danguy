@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: trungtamctxh\n"
-"POT-Creation-Date: 2016-03-01 15:43+0700\n"
+"POT-Creation-Date: 2016-01-29 10:00+0700\n"
 "PO-Revision-Date: 2016-01-27 16:25+0700\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -24,8 +24,41 @@ msgstr ""
 "X-Poedit-SearchPath-6: search.php\n"
 "X-Poedit-SearchPath-7: header.php\n"
 
+#: 404.php:8
+msgid "<h1>404 Not found!</h1>"
+msgstr ""
+
+#: 404.php:9
+msgid ""
+"<h4>Sorry, but the page you requested cannot be found. Please try again.</h4>"
+msgstr ""
+
 #: content-none.php:2
-msgid "<div class=\"alert alert-info\">Danh mục này chưa có nội dung.</div>"
+msgid ""
+"<div class=\"alert alert-danger\">There is no any post in this category.</"
+"div>"
+msgstr ""
+
+#: footer.php:6
+msgid "Address:"
+msgstr ""
+
+#: footer.php:6
+msgid ""
+"06 Tran Van On Street, Phu Hoa District, Thu Dau Mot City, Binh Duong "
+"Province"
+msgstr ""
+
+#: footer.php:7
+msgid "Phone:"
+msgstr ""
+
+#: footer.php:7
+msgid "(0650) 3.837.803"
+msgstr ""
+
+#: footer.php:24
+msgid "Search"
 msgstr ""
 
 #: functions.php:77
@@ -73,7 +106,7 @@ msgid "Tagged in %1$s"
 msgstr ""
 
 #: functions.php:374
-msgid "NEWS - EVENT"
+msgid "LASTEST NEWS"
 msgstr ""
 
 #: functions.php:389 functions.php:429
@@ -86,16 +119,28 @@ msgstr ""
 msgid "Views: %1$s"
 msgstr ""
 
+#: header.php:21
+msgid "http://ef.tdmu.edu.vn/en"
+msgstr ""
+
+#: header.php:21
+msgid "Home"
+msgstr ""
+
+#: header.php:22
+msgid "Economic Faculty - Thu Dau Mot University"
+msgstr ""
+
 #: search.php:17
 #, php-format
 msgid ""
-"<div class=\"alert alert-info\">Tìm thấy <strong>%1$s</strong> kết quả cho "
-"từ khóa <strong>%2$s</strong>.</div>"
+"<div class=\"alert alert-info\">Find <strong>%1$s</strong> result(s) for "
+"<strong>%2$s</strong>.</div>"
 msgstr ""
 
 #: search.php:23
 #, php-format
 msgid ""
-"<div class=\"alert alert-danger\">Không tìm thấy kết quả cho từ khóa <strong>"
-"%1$s</strong>.</div>"
+"<div class=\"alert alert-danger\">There is no result for <strong>%1$s</"
+"strong>.</div>"
 msgstr ""

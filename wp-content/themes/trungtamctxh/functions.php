@@ -368,10 +368,10 @@
 	}**/
 	if(!function_exists('top_news')){
 		function top_news(){
-		query_posts('cat=2&shows=10');
+		query_posts('shows=10');
 		if (have_posts()):
 			echo "<div class='news_content'><div class='ef-news'><h3 class='news_title'>";
-			printf( __('NEWS - EVENT', 'cswd'));
+			printf( __('LASTEST NEWS', 'cswd'));
 			echo"</h3></div>";
 			echo "<hr/>";
 		while (have_posts()) : the_post(); ?>
